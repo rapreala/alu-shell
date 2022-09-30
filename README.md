@@ -1,1 +1,1 @@
-School intranet project, shell.
+School intranet project, shell basics.
